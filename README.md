@@ -1,4 +1,4 @@
-# FLutter AlertDialogue Example
+# Flutter AlertDialogue Example
 
 A new Flutter project.
 
